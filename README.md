@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @daniilv7
+- 👋 Hi, I’m Daniil
 - 👀 I’m interested in C++
 - 🌱 I'm taking courses and studying at the university.
-- 💞️ I’m looking to collaborate on on app and game development projects and would consider any collaboration.
 - 📫 How to reach me daniilvaneev406@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 😄
